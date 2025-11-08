@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ripon Ahmed</h1>
+
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFYf0pyySED5Q/profile-displaybackgroundimage-shrink_350_1400/B4EZo1SyEmHoAc-/0/1761830730669?e=1764201600&v=beta&t=0aKur70v8kBN5R0za3MHvGxjGYHav8SfKk03JXLz87I"> 
 <h3 align="center">Passionate | Web Designer | & | WordPress Developer | Where Design Meets Function | Guiding Businesses & the Future of the Web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wd-ripon&label=Profile%20views&color=0e75b6&style=flat" alt="wd-ripon" /> </p>
