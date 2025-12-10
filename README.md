@@ -1,5 +1,5 @@
  
-<img src=""> 
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFYf0pyySED5Q/profile-displaybackgroundimage-shrink_350_1400/B4EZo1SyEmHoAc-/0/1761830730669?e=1767225600&v=beta&t=QnPhcAA7L3Vqx2QMUpdm-j70UmMtc7HV8kV9ak0OwhY"> 
 <h3 align="center">Passionate | Web Designer | & | WordPress Developer | Where Design Meets Function | Guiding Businesses & the Future of the Web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wd-ripon&label=Profile%20views&color=0e75b6&style=flat" alt="wd-ripon" /> </p>
